@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 16.375" name="Datacon">
+  <DataContextMoniker Name="/DataconDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2552a530-9bf2-4934-853e-4da9ea80644d" absoluteBounds="3.625, 1.25, 2, 14.847394205729165">
+      <DataClassMoniker Name="/DataconDataContext/TRNMemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d956701-25ae-443b-a94e-f82f35e5b733" absoluteBounds="3.6400000000000006, 1.71, 1.9700000000000002, 14.287394205729166" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4453dd5b-3060-4f1a-aa53-080c6b833bce" absoluteBounds="5.625, 1.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataconDataContext/MSTCatagolyItemStock" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6aa43f56-3f89-40a0-a532-03edfa6f8955" absoluteBounds="5.6400000000000006, 1.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
